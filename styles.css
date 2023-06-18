@@ -5,7 +5,8 @@
 	
 }
 .author{
-	text-align:right
+	text-align:right;
+	font-style:italic;
 }
 .inner1{
 	background-color:white;
